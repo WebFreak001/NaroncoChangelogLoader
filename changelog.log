@@ -1,13 +1,12 @@
-#this is a comment
- = this is a main title (h1)
+ = this is a main title (h1) //with a comment
  - this is a title (h2)
 -and this is a title
 this is a entry
 this is a new entry
 /this is a deleted entry (for todos)
 "this is a bold entry
-#0F0this is a lime entry
+#080this is a green entry
 \nthis entry is in a second line
 !this entry is underlined
 $this entry is italic
-&this is a marked entry
+&F80this is a marked entry
